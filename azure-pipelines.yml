@@ -25,5 +25,5 @@ steps:
 - task: NexusIqPipelineTask@1
   inputs:
     nexusIqService: 'Nexus IQ Server'
-    applicationId: 'juiceShop'
+    applicationId: 'Shop_npm_JavaScript'
     stage: 'Build'
